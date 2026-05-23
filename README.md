@@ -52,6 +52,7 @@ An USB to TTL convertor
 - `src/PCB/` — EasyEDA project sources
 - `production/` for fabrication outputs
 - `production/pcb/` — PCB fabrication files (Gerbers, BOM, Pick & Place)
+- `Render/` for Render Sources
 
 
 ## Schematic on EasyEDA
