@@ -16,7 +16,7 @@ An USB to TTL convertor
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
 ![Series](https://img.shields.io/badge/Series-Converter-red.svg)
-![Devlog](https://img.shields.io/badge/Devlog-12Hr7min-blue)
+![Devlog](https://img.shields.io/badge/Devlog-13Hr7min-blue)
 
 </div>
 
