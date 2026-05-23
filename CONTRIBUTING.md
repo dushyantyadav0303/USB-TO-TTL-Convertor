@@ -1,6 +1,6 @@
-# Contributing to Watermelon USBHUB 
+# Contributing to USB to TTL Convertor
 
-Thank you for your interest in contributing to Watermelon USBHUB! We welcome hardware enthusiasts, electronics engineers, and hobbyists to help improve our PCB designs, schematics, and documentation. 
+Thank you for your interest in contributing to USB to TTL Convertor! We welcome hardware enthusiasts, electronics engineers, and hobbyists to help improve our PCB designs, schematics, and documentation. 
 
 This document outlines the guidelines for contributing to our hardware project.
 
